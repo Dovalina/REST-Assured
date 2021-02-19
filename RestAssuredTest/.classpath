@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Sergio Dovalina/Desktop/Selenium/Restassured/resAssuredComplete/annotations-13.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sergio Dovalina/Desktop/Selenium/Restassured/resAssuredComplete/btf-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sergio Dovalina/Desktop/Selenium/Restassured/resAssuredComplete/checker-compat-qual-2.5.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sergio Dovalina/Desktop/Selenium/Restassured/resAssuredComplete/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sergio Dovalina/Desktop/Selenium/Restassured/resAssuredComplete/commons-lang3-3.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sergio Dovalina/Desktop/Selenium/Restassured/resAssuredComplete/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sergio Dovalina/Desktop/Selenium/Restassured/resAssuredComplete/error_prone_annotations-2.3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sergio Dovalina/Desktop/Selenium/Restassured/resAssuredComplete/failureaccess-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sergio Dovalina/Desktop/Selenium/Restassured/resAssuredComplete/groovy-3.0.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sergio Dovalina/Desktop/Selenium/Restassured/resAssuredComplete/groovy-json-3.0.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sergio Dovalina/Desktop/Selenium/Restassured/resAssuredComplete/groovy-xml-3.0.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sergio Dovalina/Desktop/Selenium/Restassured/resAssuredComplete/guava-28.2-android.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sergio Dovalina/Desktop/Selenium/Restassured/resAssuredComplete/hamcrest-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sergio Dovalina/Desktop/Selenium/Restassured/resAssuredComplete/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sergio Dovalina/Desktop/Selenium/Restassured/resAssuredComplete/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sergio Dovalina/Desktop/Selenium/Restassured/resAssuredComplete/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sergio Dovalina/Desktop/Selenium/Restassured/resAssuredComplete/j2objc-annotations-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sergio Dovalina/Desktop/Selenium/Restassured/resAssuredComplete/jackson-annotations-2.11.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sergio Dovalina/Desktop/Selenium/Restassured/resAssuredComplete/jackson-core-2.11.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sergio Dovalina/Desktop/Selenium/Restassured/resAssuredComplete/jackson-coreutils-2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sergio Dovalina/Desktop/Selenium/Restassured/resAssuredComplete/jackson-coreutils-equivalence-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sergio Dovalina/Desktop/Selenium/Restassured/resAssuredComplete/jackson-databind-2.11.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sergio Dovalina/Desktop/Selenium/Restassured/resAssuredComplete/jakarta.activation-api-1.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sergio Dovalina/Desktop/Selenium/Restassured/resAssuredComplete/jakarta.xml.bind-api-2.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sergio Dovalina/Desktop/Selenium/Restassured/resAssuredComplete/jaxb-impl-2.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sergio Dovalina/Desktop/Selenium/Restassured/resAssuredComplete/joda-time-2.10.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sergio Dovalina/Desktop/Selenium/Restassured/resAssuredComplete/jopt-simple-5.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sergio Dovalina/Desktop/Selenium/Restassured/resAssuredComplete/json-path-4.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sergio Dovalina/Desktop/Selenium/Restassured/resAssuredComplete/json-path-4.3.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sergio Dovalina/Desktop/Selenium/Restassured/resAssuredComplete/json-path-4.3.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sergio Dovalina/Desktop/Selenium/Restassured/resAssuredComplete/json-schema-core-1.2.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sergio Dovalina/Desktop/Selenium/Restassured/resAssuredComplete/json-schema-validator-2.2.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sergio Dovalina/Desktop/Selenium/Restassured/resAssuredComplete/json-schema-validator-4.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sergio Dovalina/Desktop/Selenium/Restassured/resAssuredComplete/json-schema-validator-4.3.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sergio Dovalina/Desktop/Selenium/Restassured/resAssuredComplete/json-schema-validator-4.3.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sergio Dovalina/Desktop/Selenium/Restassured/resAssuredComplete/jsr305-3.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sergio Dovalina/Desktop/Selenium/Restassured/resAssuredComplete/kotlin-extensions-4.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sergio Dovalina/Desktop/Selenium/Restassured/resAssuredComplete/kotlin-stdlib-1.4.21.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sergio Dovalina/Desktop/Selenium/Restassured/resAssuredComplete/kotlin-stdlib-common-1.4.21.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sergio Dovalina/Desktop/Selenium/Restassured/resAssuredComplete/kotlin-stdlib-jdk7-1.4.21.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sergio Dovalina/Desktop/Selenium/Restassured/resAssuredComplete/libphonenumber-8.11.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sergio Dovalina/Desktop/Selenium/Restassured/resAssuredComplete/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sergio Dovalina/Desktop/Selenium/Restassured/resAssuredComplete/mailapi-1.6.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sergio Dovalina/Desktop/Selenium/Restassured/resAssuredComplete/msg-simple-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sergio Dovalina/Desktop/Selenium/Restassured/resAssuredComplete/nio-multipart-parser-1.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sergio Dovalina/Desktop/Selenium/Restassured/resAssuredComplete/nio-stream-storage-1.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sergio Dovalina/Desktop/Selenium/Restassured/resAssuredComplete/reactive-streams-1.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sergio Dovalina/Desktop/Selenium/Restassured/resAssuredComplete/reactor-core-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sergio Dovalina/Desktop/Selenium/Restassured/resAssuredComplete/rest-assured-4.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sergio Dovalina/Desktop/Selenium/Restassured/resAssuredComplete/rest-assured-4.3.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sergio Dovalina/Desktop/Selenium/Restassured/resAssuredComplete/rest-assured-4.3.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sergio Dovalina/Desktop/Selenium/Restassured/resAssuredComplete/rest-assured-common-4.3.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sergio Dovalina/Desktop/Selenium/Restassured/resAssuredComplete/rest-assured-common-4.3.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sergio Dovalina/Desktop/Selenium/Restassured/resAssuredComplete/rhino-1.7.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sergio Dovalina/Desktop/Selenium/Restassured/resAssuredComplete/scala-library-2.13.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sergio Dovalina/Desktop/Selenium/Restassured/resAssuredComplete/scala-support-4.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sergio Dovalina/Desktop/Selenium/Restassured/resAssuredComplete/slf4j-api-1.7.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sergio Dovalina/Desktop/Selenium/Restassured/resAssuredComplete/spring-aop-4.3.23.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sergio Dovalina/Desktop/Selenium/Restassured/resAssuredComplete/spring-aop-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sergio Dovalina/Desktop/Selenium/Restassured/resAssuredComplete/spring-beans-4.3.23.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sergio Dovalina/Desktop/Selenium/Restassured/resAssuredComplete/spring-beans-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sergio Dovalina/Desktop/Selenium/Restassured/resAssuredComplete/spring-commons-4.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sergio Dovalina/Desktop/Selenium/Restassured/resAssuredComplete/spring-context-4.3.23.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sergio Dovalina/Desktop/Selenium/Restassured/resAssuredComplete/spring-context-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sergio Dovalina/Desktop/Selenium/Restassured/resAssuredComplete/spring-core-4.3.23.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sergio Dovalina/Desktop/Selenium/Restassured/resAssuredComplete/spring-core-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sergio Dovalina/Desktop/Selenium/Restassured/resAssuredComplete/spring-expression-4.3.23.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sergio Dovalina/Desktop/Selenium/Restassured/resAssuredComplete/spring-expression-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sergio Dovalina/Desktop/Selenium/Restassured/resAssuredComplete/spring-jcl-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sergio Dovalina/Desktop/Selenium/Restassured/resAssuredComplete/spring-mock-mvc-4.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sergio Dovalina/Desktop/Selenium/Restassured/resAssuredComplete/spring-test-4.3.23.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sergio Dovalina/Desktop/Selenium/Restassured/resAssuredComplete/spring-test-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sergio Dovalina/Desktop/Selenium/Restassured/resAssuredComplete/spring-web-4.3.23.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sergio Dovalina/Desktop/Selenium/Restassured/resAssuredComplete/spring-web-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sergio Dovalina/Desktop/Selenium/Restassured/resAssuredComplete/spring-webflux-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sergio Dovalina/Desktop/Selenium/Restassured/resAssuredComplete/spring-webmvc-4.3.23.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sergio Dovalina/Desktop/Selenium/Restassured/resAssuredComplete/spring-web-test-client-4.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sergio Dovalina/Desktop/Selenium/Restassured/resAssuredComplete/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sergio Dovalina/Desktop/Selenium/Restassured/resAssuredComplete/uri-template-0.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sergio Dovalina/Desktop/Selenium/Restassured/resAssuredComplete/xml-path-4.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sergio Dovalina/Desktop/Selenium/Restassured/resAssuredComplete/xml-path-4.3.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sergio Dovalina/Desktop/Selenium/Restassured/resAssuredComplete/xml-path-4.3.3-sources.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
